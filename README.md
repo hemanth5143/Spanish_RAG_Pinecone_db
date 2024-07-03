@@ -1,4 +1,4 @@
-Spanish RAG System with Pinecone and Mistral-7B
+###Spanish RAG System with Pinecone and Mistral-7B
 
 This project implements a Retrieval-Augmented Generation (RAG) system in Spanish using Pinecone as a vector database and the Mistral-7B language model. The system is designed to answer questions about the Bible based on the Reina Valera Spanish translation.
 
